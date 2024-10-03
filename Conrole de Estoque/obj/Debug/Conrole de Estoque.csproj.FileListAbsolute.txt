@@ -1,0 +1,8 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\Windows Forms\Conrole de Estoque\obj\Debug\Conrole de Estoque.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Windows Forms\Conrole de Estoque\obj\Debug\Conrole de Estoque.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Windows Forms\Conrole de Estoque\obj\Debug\Conrole de Estoque.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Windows Forms\Conrole de Estoque\bin\Debug\Conrole de Estoque.exe.config
+C:\Users\vitor\OneDrive\Área de Trabalho\Windows Forms\Conrole de Estoque\bin\Debug\Conrole de Estoque.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\Windows Forms\Conrole de Estoque\bin\Debug\Conrole de Estoque.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Windows Forms\Conrole de Estoque\obj\Debug\Conrole de Estoque.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\Windows Forms\Conrole de Estoque\obj\Debug\Conrole de Estoque.pdb
